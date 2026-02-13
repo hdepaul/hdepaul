@@ -1,54 +1,36 @@
-# 👋 Hi, I'm Hernán De Paul
+# Hi, I'm Hernan De Paul
 
-Backend-focused software developer with **20+ years of experience** building and maintaining real-world applications.
-Strong background in **C#, .NET, REST APIs**, and long-lived / legacy systems.
+**Senior Software Engineer** with 20+ years building enterprise systems.
 
-I enjoy working on backend architecture, refactoring existing systems, and solving practical business problems.
-Currently open to **remote contractor opportunities**.
+.NET | Azure | Microservices | Angular | AI Integration
 
 ---
 
-## 🧠 Main Tech Stack
-- C#, .NET (various versions)
-- ASP.NET Core / REST APIs
-- SQL Server
-- Backend architecture & integrations
-- Angular (basic / intermediate)
-- TypeScript
+### What I Do
+
+- Backend architecture with **C#, .NET 8, ASP.NET Core**
+- Cloud platforms: **Azure, AWS, Docker, CI/CD**
+- Event-driven systems: **RabbitMQ, Azure Service Bus**
+- Frontend: **Angular, TypeScript**
+- AI tooling: **Claude AI, GitHub Copilot, MCP**
 
 ---
 
-## 🤖 AI & Automation (in progress)
-- Actively researching the use of **AI agents** in software development
-- Exploring how agents can assist with:
-  - Automation of backend tasks
-  - Code analysis and refactoring support
-  - Developer productivity improvements
-- Early-stage learning and experimentation, focused on **practical use cases**
+### Featured Project
+
+**[EnQueGasto.com](https://enquegasto.com)** - Expense tracker with AI-powered natural language input
+`.NET 10` `Angular 21` `Claude AI (Agentic Tool Use)` `Azure Container Apps`
+[Backend](https://github.com/hdepaul/ExpenseTracker) | [Frontend](https://github.com/hdepaul/expense-tracker-app)
 
 ---
 
-## 🔨 What I Focus On
-- Backend development and APIs
-- Maintainable and readable code
-- Refactoring and improving legacy systems
-- Long-term, real-world applications (not only demos)
+### Links
+
+- [Portfolio](https://hdepaul.github.io)
+- [LinkedIn](https://www.linkedin.com/in/hdepaul/)
+- [Email](mailto:hdepaul@gmail.com)
 
 ---
 
-## 💼 Work Preferences
-- Remote-first
-- Contractor / freelance engagements
-- Backend-heavy roles
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/hdepaul
-- LinkedIn: https://www.linkedin.com/in/hdepaul/
-- Email: hernan.depaul@outlook.com
-
----
-
-> Spanish native speaker. Intermediate English.
-> Based in Argentina. Open to global remote work.
+> Based in Rosario, Argentina. Open to global remote work.
+> Certified ScrumMaster (CSM) | English B2
