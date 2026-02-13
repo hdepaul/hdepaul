@@ -28,7 +28,7 @@
 
 - [Portfolio](https://hdepaul.github.io)
 - [LinkedIn](https://www.linkedin.com/in/hdepaul/)
-- [Email](mailto:hdepaul@gmail.com)
+- [Email](mailto:hernan.depaul@outlook.com)
 
 ---
 
